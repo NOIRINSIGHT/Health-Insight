@@ -62,14 +62,14 @@ Technologies used in the project:
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/devesh711/Health-Insight.svg?style=for-the-badge
-[contributors-url]: https://github.com/devesh711/Health-Insight/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/devesh711/Health-Insight.svg?style=for-the-badge
-[forks-url]: https://github.com/devesh711/Health-Insight/network/members
-[stars-shield]: https://img.shields.io/github/stars/devesh711/Health-Insight.svg?style=for-the-badge
-[stars-url]: https://github.com/devesh711/Health-Insight/stargazers
-[issues-shield]: https://img.shields.io/github/issues/devesh711/Health-Insight.svg?style=for-the-badge
-[issues-url]: https://github.com/devesh711/Health-Insight/issues
-[license-shield]: https://img.shields.io/github/license/devesh711/Health-Insight.svg?style=for-the-badge
-[license-url]: https://github.com/devesh711/Health-Insight/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NOIRINSIGHT/Health-Insight.svg?style=for-the-badge
+[contributors-url]: https://github.com/NOIRINSIGHT/Health-Insight/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NOIRINSIGHT/Health-Insight.svg?style=for-the-badge
+[forks-url]: https://github.com/NOIRINSIGHT/Health-Insight/network/members
+[stars-shield]: https://img.shields.io/github/stars/NOIRINSIGHT/Health-Insight.svg?style=for-the-badge
+[stars-url]: https://github.com/NOIRINSIGHT/Health-Insight/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NOIRINSIGHT/Health-Insight.svg?style=for-the-badge
+[issues-url]: https://github.com/devesh711/NOIRINSIGHT/Health-Insight/issues
+[license-shield]: https://img.shields.io/github/license/NOIRINSIGHT/Health-Insight.svg?style=for-the-badge
+[license-url]: https://github.com/NOIRINSIGHT/Health-Insight/blob/master/LICENSE.txt
 
